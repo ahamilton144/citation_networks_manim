@@ -1,3 +1,5 @@
 #!/bin/bash
 
-manim -ql -i scene_vosviewer.py CitationNetworkZoom
+### initial square to circle example from docs
+manim -ql -i scene.py SquareToCircle
+
