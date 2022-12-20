@@ -1,5 +1,5 @@
 # citation_networks_manim
-Playing around with Manim Python library to create animated visualizations of citation networks.
+Code for my [Water Programming Blog post](https://waterprogramming.wordpress.com/2022/12/20/animating-figures-with-manim-a-citation-network-example/) on creating animated visualizations of citation networks using the Python-based Manim ("Mathematical Animation") engine.
 
 See [docs](https://docs.manim.community/en/v0.15.2/index.html) for installation instructions and examples, plus this [TowardsDataScience](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) post for more helpful examples.
 
